@@ -1,0 +1,6 @@
+﻿Abdiisaan baayyee bareeda.abdiisaan baayyee fokkisaadha. gaariidha . haalan bareeddi.
+for x in preprocessed_text:
+    print(x.upper())
+print(l3.anal("om",preprocessed_text[0],root=False,gram=False, citation=True, raw=False, nbest=1))
+for x in preprocessed_text:
+    print(l3.anal("om",x[0],root=False,gram=False, citation=True, raw=False, nbest=1))

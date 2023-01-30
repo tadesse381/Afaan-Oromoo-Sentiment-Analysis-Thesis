@@ -1,0 +1,10 @@
+for word in sentence:
+word=word.split()
+for char in word:
+match with root of sentiment:
+and take the rest of chars and match with suffixs:
+if chars match with noun suffix:
+take the word tagg in hornmorpho to NN: take it as feature
+if chars match with adjective suffix: take it as adjective
+if chars match with verb suffix:take it as verb feature
+

@@ -1,0 +1,3 @@
+{
+1 : [('hirmaannaan', 'VBZ'),('cimina', 'NN'),('sagantaa', 'NN'),('kaahuu','VV '),('murteess','VV '),],
+}
