@@ -1,0 +1,17 @@
+["Baayyee baayyee bareeddu barsiisa ko", '+2'"]
+haalaan namatti tola: +2
+bayyeen si jibba: -2
+Haramayan haalan midhaga:+2
+qormaanni dansaa dha:+1
+Namni kun hamaa dha:-2
+hedduu cimaa dha:+2
+bayyee fokkisti:-2
+Odaan muka beekama dha.0
+Reduplication Afaan Oromoo...Language feature.
+a'abaaruu.a'.u'ute
+code
+fix the code for
+a'abaaruu
+dhudhufuu
+root------store single root for each
+check the end of root char and check with the stored suffixs.()............................identify the Tag.....
